@@ -1,0 +1,17 @@
+{
+  "name": "FlowState",
+  "short_name": "FlowState",
+  "description": "Your weekly execution system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#f5f4f0",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%23f5f4f0' rx='40'/><circle cx='96' cy='96' r='24' fill='%231a1a1a'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
